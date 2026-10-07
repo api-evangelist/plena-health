@@ -67,6 +67,10 @@ tags_raw:
 image: https://www.plena.health/assets/logo-mark.png
 apis: []
 common:
+- type: Pricing
+  url: https://www.plena.health/
+- type: Plans
+  url: plans/plena-health-plans-pricing.yml
 - type: DomainSecurity
   url: security/plena-health-domain-security.yml
 - type: Website
